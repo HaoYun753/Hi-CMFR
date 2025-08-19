@@ -7,4 +7,5 @@ Hi-CMFR uses computational methods to accomplish a framework similar to the "add
 
 To use this tool, you must preload all the functions listed in "preload.py", and conduct Hi-CMFR in "Hi-CMFR_main.py". You may also use the ploting function and evaluation function listed in "supplementary.py".
 
+![Workflow.png](https://github.com/HaoYun753/Hi-CMFR/blob/main/Workflow.png)
 
